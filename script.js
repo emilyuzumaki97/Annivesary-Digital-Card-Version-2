@@ -4,35 +4,35 @@ const PASSWORD = "1208";
 const memories = [
 
 {
-image:"images/1.jpg",
+image:"1.jpg",
 title:"The Day We Met ❤️",
 caption:"The beginning of my favorite story.",
 date:"12 August 2024"
 },
 
 {
-image:"images/2.jpg",
+image:".jpg",
 title:"Our First Date ❤️",
 caption:"I still remember how nervous and happy I was.",
 date:"18 September 2024"
 },
 
 {
-image:"images/3.jpg",
+image:"3.jpg",
 title:"Our Adventure ❤️",
 caption:"Every adventure becomes beautiful because you're there.",
 date:"02 December 2024"
 },
 
 {
-image:"images/4.jpg",
+image:"4.jpg",
 title:"Our Favorite Moment ❤️",
 caption:"One photo. A thousand emotions.",
 date:"10 February 2025"
 },
 
 {
-image:"images/5.jpg",
+image:"5.jpg",
 title:"Forever Us ❤️",
 caption:"May our album never stop growing.",
 date:"Today ❤️"
