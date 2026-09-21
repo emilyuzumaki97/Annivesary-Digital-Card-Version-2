@@ -11,7 +11,7 @@ date:"12 August 2024"
 },
 
 {
-image:".jpg",
+image:"2.jpg",
 title:"Our First Date ❤️",
 caption:"I still remember how nervous and happy I was.",
 date:"18 September 2024"
