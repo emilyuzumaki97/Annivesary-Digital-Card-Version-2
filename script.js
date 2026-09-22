@@ -7,14 +7,14 @@ const memories = [
 image:"1.jpg",
 title:"The Day We Met ❤️",
 caption:"The beginning of my favorite story.",
-date:"12 September 2023"
+date:"03 September 2023"
 },
 
 {
 image:"2.jpg",
 title:"Our First Date ❤️",
 caption:"I still remember how nervous and happy I was.",
-date:"12 September 2023"
+date:"16 September 2023"
 },
 
 {
