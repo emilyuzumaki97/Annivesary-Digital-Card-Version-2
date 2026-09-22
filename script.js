@@ -1,5 +1,5 @@
 console.log("Script loaded");
-const PASSWORD = "1208";
+const PASSWORD = "0710";
 
 const memories = [
 
