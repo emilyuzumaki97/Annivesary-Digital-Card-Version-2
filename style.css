@@ -611,7 +611,7 @@ PHOTO ANIMATIONS
 
 
 .slideIn{
-    animation:slideMemory 1s;
+    animation:slideMemory 1.2s;
 }
 
 @keyframes slideMemory{
@@ -630,7 +630,7 @@ PHOTO ANIMATIONS
 
 
 .zoomIn{
-    animation:zoomMemory 1s;
+    animation:zoomMemory 1.2s;
 }
 
 @keyframes zoomMemory{
@@ -649,7 +649,7 @@ PHOTO ANIMATIONS
 
 
 .rotateIn{
-    animation:rotateMemory 1s;
+    animation:rotateMemory 1.2s;
 }
 
 @keyframes rotateMemory{
