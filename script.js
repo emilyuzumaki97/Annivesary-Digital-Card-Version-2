@@ -261,17 +261,69 @@ function typeLetter(){
 
 const letterMessage = `Happy Anniversary, my love ❤️
 
-From the day we met, my life became more beautiful.
+I don't even know where to begin, because there are so many things I want to tell you.
 
-Thank you for every smile, every laugh, every memory, and every moment we've shared together.
+First, I want you to know how deeply I love you. ❤️
+You are not just someone I love today. You are the person I have chosen for my life, 
+the person I want beside me through all the years that are still waiting for us.
 
-You are one of the most genuine people I've ever known.
+We've had beautiful days, difficult days, silly arguments, misunderstandings, laughter, 
+tears, and moments where things weren't always easy.
 
-Thank you for always being there for me.
+But through every up and down, you stayed.
 
-I hope our story continues for many more years.
+And that means more to me than I could ever properly explain.
 
-I love you ❤️`;
+Thank you for choosing to stay with me even when I wasn't the easiest person to understand.
+Thank you for being patient with me.
+Thank you for listening to me, supporting me, caring about me, and loving me 
+through all my different moods and moments.
+
+There have been times when things weren't perfect, but somehow we still 
+found our way back to each other.
+
+And honestly, that is one of the things I treasure most about us.
+
+I'm so incredibly grateful that you are part of my life.
+
+Sometimes I look at you and wonder how I got so lucky to have someone like you beside me.
+
+You have become such a special part of my life that I can't imagine my story without you in it.
+
+I want to make so many more memories with you.
+I want more adventures, more laughs, more late-night conversations, more silly moments, more celebrations, 
+and even more difficult days that we can overcome together.
+
+I don't expect our life together to always be perfect.
+
+I just want it to be ours.
+
+I want to keep choosing you.
+Again and again.
+Through every season, every change, every good day and every difficult one.
+
+Thank you for staying.
+Thank you for choosing me.
+Thank you for being you.
+
+And most importantly...
+
+Thank you for giving me the chance to love you.
+
+I love you more than these words can ever explain. ❤️
+
+Happy Anniversary, my love.
+
+Here's to us,
+to everything we've already been through,
+and to everything that is still waiting for us.
+
+I choose you.
+Today.
+Tomorrow.
+And for all the days after that.
+
+Forever yours. ❤️`;
 
 let index = 0;
 
